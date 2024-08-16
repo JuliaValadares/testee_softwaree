@@ -1,5 +1,5 @@
 .container {
-  background: linear-gradient(180deg, #47a138 0%, #ffffff 100%);
+  background: linear-gradient(180deg, #68cf56 0%, #f8f6f6 100%);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -63,7 +63,7 @@
   margin: 0.8rem 0;
   text-align: center;
   width: 100%;
-  color: #767676;
+  color: #161414;
 }
 
 .vantagens__item img {
